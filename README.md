@@ -1,8 +1,8 @@
 <div align="center">
 
-# `sylv01d`
+# Hi, I'm Saad 👋
 
-### CSE Student • Cybersecurity Learner • CTF Player
+### CSE Student @ BRAC University • Cybersecurity Learner • CTF Player
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=Initializing+cybersecurity+journey...;Learning+Linux+%F0%9F%90%A7;Breaking+things+to+understand+them;Solving+CTFs+%F0%9F%8F%B4;Learning+Penetration+Testing;Future+Security+Researcher" alt="Typing SVG" />
 
@@ -10,10 +10,10 @@
 
 ---
 
-## `$ whoami`
+## 🧠 About Me
 
 ```text
-Saad — CSE Student @ BRAC University
+CSE Student @ BRAC University
 
 Interested in:
 ├── Cybersecurity
@@ -25,9 +25,9 @@ Interested in:
 └── Security Research
 ```
 
-I'm currently focused on building a strong foundation in **cybersecurity and penetration testing** through hands-on labs, CTFs, university coursework, and experimentation.
+I'm a Computer Science student interested in **Cybersecurity and Penetration Testing**.
 
-I learn by doing:
+Currently building my fundamentals through hands-on labs, CTFs, Linux, networking, university coursework, and experimentation.
 
 ```text
 Learn → Practice → Break → Debug → Research → Repeat
@@ -35,33 +35,27 @@ Learn → Practice → Break → Debug → Research → Repeat
 
 ---
 
-## `~/cybersecurity`
+## 🛡️ Cybersecurity Profiles
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
-<img src="https://img.shields.io/badge/picoCTF-111111?style=for-the-badge&logo=picoctf&logoColor=white"/>
+<a href="https://tryhackme.com/p/sylv01d">
+<img src="https://img.shields.io/badge/TryHackMe-sylv01d-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+<a href="https://hackerone.com/sylv01d">
+<img src="https://img.shields.io/badge/HackerOne-sylv01d-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+</a>
+
+<a href="https://play.picoctf.org/">
+<img src="https://img.shields.io/badge/picoCTF-sylv01d-111111?style=for-the-badge&logo=picoctf&logoColor=white" />
+</a>
 
 </div>
 
-### Currently Learning
-
-```text
-Cybersecurity
-│
-├── 🐧 Linux
-├── 🌐 Networking
-├── 🔎 Enumeration
-├── 🌍 Web Security
-├── 🏴 CTFs
-├── 🔐 Authentication & Authorization
-└── 💀 Penetration Testing
-```
-
 ---
 
-## `./skills`
+## 🧰 Skills & Technologies
 
 ### Programming
 
@@ -70,7 +64,7 @@ Cybersecurity
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Security
+### Cybersecurity
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge\&logo=cisco\&logoColor=white)
@@ -84,7 +78,69 @@ Cybersecurity
 
 ---
 
-## `cat roadmap.txt`
+## 🎯 Current Focus
+
+```text
+Cybersecurity
+│
+├── 🐧 Linux
+├── 🌐 Networking
+├── 🔎 Enumeration
+├── 🌍 Web Security
+├── 🏴 CTFs
+└── 🔐 Penetration Testing
+```
+
+---
+
+## 🏴 CTF Journey
+
+Currently practicing:
+
+* Linux fundamentals
+* Networking fundamentals
+* Enumeration
+* Web application security
+* CTF challenges
+* Basic penetration testing
+* Security-focused problem solving
+
+### Learning Method
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Research
+  ↓
+Repeat
+```
+
+---
+
+## 🚀 Goals
+
+* [ ] Master Linux
+* [ ] Master networking fundamentals
+* [ ] Improve CTF skills
+* [ ] Complete TryHackMe learning paths
+* [ ] Learn web application penetration testing
+* [ ] Start bug bounty hunting
+* [ ] Build cybersecurity projects
+* [ ] Write CTF walkthroughs
+* [ ] Learn Python
+* [ ] Explore AI & Machine Learning
+* [ ] Contribute to open-source
+* [ ] Become a skilled penetration tester
+
+---
+
+## 📚 Learning Roadmap
 
 ```text
                     CYBERSECURITY
@@ -112,57 +168,9 @@ Cybersecurity
 
 ---
 
-## `./goals`
+## 💻 Projects
 
-* [ ] Master Linux
-* [ ] Master networking fundamentals
-* [ ] Improve CTF skills
-* [ ] Complete TryHackMe learning paths
-* [ ] Learn web application penetration testing
-* [ ] Learn Python
-* [ ] Explore AI & Machine Learning
-* [ ] Start bug bounty hunting
-* [ ] Build cybersecurity projects
-* [ ] Write CTF walkthroughs
-* [ ] Contribute to open-source
-* [ ] Become a skilled penetration tester
-
----
-
-## `~/future`
-
-```text
-2026
-│
-├── Cybersecurity fundamentals
-├── Linux
-├── Networking
-├── CTFs
-└── Pentesting
-        │
-        ▼
-2027
-│
-├── Python
-├── Web Pentesting
-├── Bug Bounty
-├── Automation
-└── Security Tools
-        │
-        ▼
-Future
-│
-├── AI / ML
-├── AI Security
-├── Advanced Pentesting
-└── Security Research
-```
-
----
-
-## `./projects`
-
-Currently building and experimenting with:
+Currently experimenting with:
 
 * 🔐 Cybersecurity labs
 * 🏴 CTF challenges
@@ -171,11 +179,9 @@ Currently building and experimenting with:
 * 🧪 Security experiments
 * 🎨 Graphic design projects
 
-More projects coming as I learn.
-
 ---
 
-## `github stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -187,7 +193,7 @@ More projects coming as I learn.
 
 ---
 
-## `streak`
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -197,21 +203,7 @@ More projects coming as I learn.
 
 ---
 
-## `connect`
-
 <div align="center">
-
-<a href="https://github.com/misbahulsaad">
-<img src="https://img.shields.io/badge/GitHub-misbahulsaad-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff00&height=120&section=footer"/>
 
 ### `> Understand the system. Break the system. Secure the system.`
 
