@@ -1,209 +1,311 @@
 <div align="center">
 
-# Hi, I'm Saad 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff00&height=200&section=header&text=SAAD&fontSize=70&fontColor=00ff00&animation=twinkling&fontAlignY=35" />
 
-### CSE Student @ BRAC University • Cybersecurity Learner • CTF Player
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Initializing+cybersecurity+journey...;%5B%2B%5D+Loading+Linux...;%5B%2B%5D+Scanning+for+vulnerabilities...;%5B%2B%5D+Solving+CTFs...;%5B%2B%5D+Learning+penetration+testing...;%5B%2B%5D+Access+granted." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=Initializing+cybersecurity+journey...;Learning+Linux+%F0%9F%90%A7;Breaking+things+to+understand+them;Solving+CTFs+%F0%9F%8F%B4;Learning+Penetration+Testing;Future+Security+Researcher" alt="Typing SVG" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=misbahulsaad&label=PROFILE+VIEWS&color=00ff00&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `root@sаad:~$ whoami`
 
-```text
+```console
+┌──(saad㉿kali)-[~]
+└─$ whoami
+
 CSE Student @ BRAC University
 
-Interested in:
-├── Cybersecurity
-├── Penetration Testing
-├── CTFs
-├── Linux
-├── Networking
-├── Web Security
-└── Security Research
+┌──(saad㉿kali)-[~]
+└─$ cat interests.txt
+
+[+] Cybersecurity
+[+] Penetration Testing
+[+] CTFs
+[+] Linux
+[+] Networking
+[+] Web Security
+[+] Security Research
 ```
 
-I'm a Computer Science student interested in **Cybersecurity and Penetration Testing**.
+I'm a Computer Science student focused on **cybersecurity and penetration testing**.
 
-Currently building my fundamentals through hands-on labs, CTFs, Linux, networking, university coursework, and experimentation.
+Most of my learning happens through hands-on labs, CTFs, Linux, networking, university projects, and breaking things just to understand how they work.
 
 ```text
-Learn → Practice → Break → Debug → Research → Repeat
+              ┌───────────────┐
+              │     LEARN     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    PRACTICE   │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     BREAK     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     DEBUG     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    RESEARCH   │
+              └───────┬───────┘
+                      │
+                      └──────→ REPEAT
 ```
 
 ---
 
-## 🛡️ Cybersecurity Profiles
+# `./cybersecurity`
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/sylv01d">
-<img src="https://img.shields.io/badge/TryHackMe-sylv01d-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/TRYHACKME-sylv01d-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff00" />
 </a>
 
 <a href="https://hackerone.com/sylv01d">
-<img src="https://img.shields.io/badge/HackerOne-sylv01d-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/HACKERONE-sylv01d-494649?style=for-the-badge&logo=hackerone&logoColor=00ff00" />
 </a>
 
-<a href="https://play.picoctf.org/">
-<img src="https://img.shields.io/badge/picoCTF-sylv01d-111111?style=for-the-badge&logo=picoctf&logoColor=white" />
+<a href="https://learn.cylabacademy.org/users/sylv01d">
+<img src="https://img.shields.io/badge/CYLAB%20ACADEMY-sylv01d-111111?style=for-the-badge&logo=picoctf&logoColor=00ff00" />
 </a>
 
 </div>
 
 ---
 
-## 🧰 Skills & Technologies
+## `./current_mission`
+
+```text
+╔══════════════════════════════════════════════╗
+║              CURRENT MISSION                 ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [██████████████████░░░░░░░░░░] 60%         ║
+║                                              ║
+║  > Linux              ████████████████░░     ║
+║  > Networking         █████████████░░░░░     ║
+║  > Web Security       ██████████░░░░░░░     ║
+║  > CTF                 ███████████░░░░░░     ║
+║  > Pentesting          ███████░░░░░░░░░     ║
+║  > Python              ██░░░░░░░░░░░░░░     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+### 🐧 Linux
+
+Learning Linux beyond just commands — understanding the system, permissions, processes, networking, filesystems, and how everything connects.
+
+### 🌐 Networking
+
+Building the foundation needed for offensive security:
+
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* Ports & protocols
+* Network enumeration
+* Basic network security
+
+### 🔎 Enumeration
+
+Learning to identify what exists before trying to exploit it.
+
+### 🌍 Web Security
+
+Working toward understanding:
+
+* Authentication
+* Authorization
+* HTTP
+* Sessions
+* SQL Injection
+* XSS
+* File vulnerabilities
+* Common web attack surfaces
+
+### 🏴 CTFs
+
+Using CTF platforms to practice real problem-solving rather than simply following tutorials.
+
+---
+
+# `./toolkit`
 
 ### Programming
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
 
-### Cybersecurity
+### Environment & Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-FF6B35?style=for-the-badge\&logo=hackthebox\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
 
 ---
 
-## 🎯 Current Focus
+# `./roadmap`
 
 ```text
-Cybersecurity
-│
-├── 🐧 Linux
-├── 🌐 Networking
-├── 🔎 Enumeration
-├── 🌍 Web Security
-├── 🏴 CTFs
-└── 🔐 Penetration Testing
+                         ┌──────────────────┐
+                         │  CYBERSECURITY   │
+                         └────────┬─────────┘
+                                  │
+                 ┌────────────────┼────────────────┐
+                 ↓                ↓                ↓
+              LINUX          NETWORKING           CTF
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  ↓
+                           WEB TECHNOLOGIES
+                                  │
+                                  ↓
+                         ENUMERATION / RECON
+                                  │
+                                  ↓
+                        WEB PENETRATION TESTING
+                                  │
+                                  ↓
+                         PRIVILEGE ESCALATION
+                                  │
+                                  ↓
+                        ACTIVE DIRECTORY
+                                  │
+                                  ↓
+                            BUG BOUNTY
+                                  │
+                                  ↓
+                         SECURITY RESEARCH
 ```
 
 ---
 
-## 🏴 CTF Journey
+# `./learning_next`
 
-Currently practicing:
+```console
+$ ./future.sh
 
-* Linux fundamentals
-* Networking fundamentals
-* Enumeration
-* Web application security
-* CTF challenges
-* Basic penetration testing
-* Security-focused problem solving
+[+] Python
+[+] Security Automation
+[+] Web Pentesting
+[+] Bug Bounty
+[+] Security Tool Development
+[+] AI / Machine Learning
+[+] AI Security
+```
 
-### Learning Method
+Python is next on my learning path, followed by exploring **AI / Machine Learning** and eventually looking into the intersection between **AI and cybersecurity**.
+
+---
+
+# `./goals`
 
 ```text
-Learn
-  ↓
-Practice
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Research
-  ↓
-Repeat
+[ ] Master Linux
+[ ] Master networking fundamentals
+[ ] Improve CTF skills
+[ ] Complete TryHackMe paths
+[ ] Learn web application penetration testing
+[ ] Learn privilege escalation
+[ ] Learn Active Directory
+[ ] Start bug bounty hunting
+[ ] Build security tools
+[ ] Write CTF walkthroughs
+[ ] Learn Python
+[ ] Explore AI / ML
+[ ] Contribute to open-source
+[ ] Become a skilled penetration tester
+[ ] Move toward security research
 ```
 
 ---
 
-## 🚀 Goals
-
-* [ ] Master Linux
-* [ ] Master networking fundamentals
-* [ ] Improve CTF skills
-* [ ] Complete TryHackMe learning paths
-* [ ] Learn web application penetration testing
-* [ ] Start bug bounty hunting
-* [ ] Build cybersecurity projects
-* [ ] Write CTF walkthroughs
-* [ ] Learn Python
-* [ ] Explore AI & Machine Learning
-* [ ] Contribute to open-source
-* [ ] Become a skilled penetration tester
-
----
-
-## 📚 Learning Roadmap
+# `./projects`
 
 ```text
-                    CYBERSECURITY
-                          │
-            ┌─────────────┼─────────────┐
-            ▼             ▼             ▼
-          Linux       Networking       CTFs
-            │             │             │
-            └─────────────┼─────────────┘
-                          ▼
-                    Web Security
-                          │
-                          ▼
-                 Enumeration & Recon
-                          │
-                          ▼
-                Penetration Testing
-                          │
-                          ▼
-                    Bug Bounty
-                          │
-                          ▼
-                  Security Research
+┌─────────────────────────────────────────────┐
+│                PROJECTS                     │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🔐 Cybersecurity Labs                      │
+│  🏴 CTF Challenges                           │
+│  🌐 Web Projects                            │
+│  🗄️ Database Projects                       │
+│  🧪 Security Experiments                    │
+│  🎨 Design Projects                         │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
----
-
-## 💻 Projects
-
-Currently experimenting with:
-
-* 🔐 Cybersecurity labs
-* 🏴 CTF challenges
-* 🌐 Web applications
-* 🗄️ Database systems
-* 🧪 Security experiments
-* 🎨 Graphic design projects
+As I build more, this section will become a collection of **security tools, writeups, labs, and projects**.
 
 ---
 
-## 📊 GitHub Stats
+# `./github_stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=misbahulsaad&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=misbahulsaad&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahulsaad&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahulsaad&layout=compact&theme=github_dark&hide_border=true&title_color=00ff00&text_color=ffffff" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# `./activity`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=misbahulsaad&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=misbahulsaad&theme=github-dark-blue&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/misbahulsaad/misbahulsaad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# `./status`
+
+```console
+┌──(saad㉿kali)-[~]
+└─$ systemctl status cybersecurity
+
+● cybersecurity.service - Saad's Cybersecurity Journey
+   Loaded: loaded
+   Active: active (running)
+
+   Learning Linux ............... [ OK ]
+   Networking ................... [ OK ]
+   CTF Practice ................ [ ACTIVE ]
+   Web Security ................ [ ACTIVE ]
+   Pentesting ................... [ IN PROGRESS ]
+   Python ....................... [ QUEUED ]
+   AI / ML ...................... [ QUEUED ]
+
+   Status: LEARNING
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff00&height=150&section=footer&animation=twinkling" />
 
 ### `> Understand the system. Break the system. Secure the system.`
 
