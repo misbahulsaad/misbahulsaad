@@ -1,28 +1,65 @@
-<div align="center">
+# Hi, I'm Saad 👋
 
-<!-- Ethereal Header Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Binary+Exploitation;Machine+Learning+Projects;CSE+%40+BRAC+University" alt="Typing Header" />
+### CSE Student @ BRAC University | Cybersecurity Learner | CTF Player
 
-# ✦ SYLV01D ✦
-*`Cybersecurity Enthusiast • ML Developer • CS Student`*
+I'm a Computer Science student interested in **Cybersecurity, Penetration Testing, Linux, and Software Development**.
+
+Currently learning through hands-on practice, CTFs, labs, university projects, and building things myself.
 
 ---
 
-<!-- Ethereal Badges -->
-[![HackerOne](https://img.shields.io/badge/HackerOne-sylv01d-220033?style=for-the-badge&logo=hackerone&logoColor=A78BFA&labelColor=0D0D12)](https://hackerone.com/sylv01d)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-220033?style=for-the-badge&logo=tryhackme&logoColor=A78BFA&labelColor=0D0D12)](#)
-[![Projects](https://img.shields.io/badge/Projects-Building...-220033?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D0D12)](#-projects--lab-work)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-220033?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0D0D12)](#)
+## 🛡️ What I'm Working On
 
-</div>
+- 🔐 Cybersecurity & Penetration Testing
+- 🏴 CTFs and Web Security
+- 🐧 Linux & Networking
+- 🌐 Web Development
+- 🗄️ Databases & SQL
+- 💻 Programming & Software Development
 
-<br>
+---
 
-### 🌌 Overview
+## 🧰 Technologies & Tools
 
-```ascii
- ╔══════════════════════════════════════════════════════════════════╗
- ║  • CS Student focused on Ethical Hacking & Machine Learning      ║
- ║  • Diving deep into Binary Exploitation & Network Forensics      ║
- ║  • Building security tools, ML models, & custom software        ║
- ╚══════════════════════════════════════════════════════════════════╝
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+```text
+Cybersecurity
+├── Linux
+├── Networking
+├── Web Security
+├── CTFs
+├── Enumeration
+└── Penetration Testing
+
+Development
+├── C / C++
+├── Java
+├── Python
+├── PHP
+├── SQL
+└── Full-Stack Development
