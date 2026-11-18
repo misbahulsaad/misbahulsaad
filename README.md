@@ -1,102 +1,80 @@
-<div align="center">
-
-# Hi, I'm Saad 👋
-
-### CSE Student @ BRAC University • Cybersecurity Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+CTFs+%7C+Linux+%7C+Pentesting" />
-
-</div>
-
----
-
-## About Me
-
-I'm a CSE student interested in **cybersecurity and penetration testing**.
-
-Currently learning through CTFs, hands-on labs, Linux, networking, and security projects.
-
-```text
-Learn → Practice → Break → Understand → Repeat
-```
-
----
-
-## 🛡️ Cybersecurity
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/sylv01d">
-<img src="https://img.shields.io/badge/TryHackMe-sylv01d-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
-<a href="https://hackerone.com/sylv01d">
-<img src="https://img.shields.io/badge/HackerOne-sylv01d-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
-</a>
-
-<a href="https://learn.cylabacademy.org/users/sylv01d">
-<img src="https://img.shields.io/badge/CyLab%20Academy-sylv01d-111111?style=for-the-badge&logo=picoctf&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🔐 Currently Learning
-
-* Linux & Networking
-* Web Security
-* Enumeration
-* CTFs
-* Penetration Testing
-
-### Next
-
-* Python
-* Security Automation
-* AI / Machine Learning
-
----
-
-## 🧰 Technologies
+<h1 align="center">MD. MISBAHUL ISLAM SAAD</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,linux,bash,git,github" />
+  <sub>CSE @ BRAC UNIVERSITY &nbsp;/&nbsp; SECURITY RESEARCH &nbsp;/&nbsp; PENTESTING</sub>
 </p>
 
----
+<p align="center">
+  <a href="https://tryhackme.com/p/sylv01d"><img src="https://img.shields.io/badge/TRYHACKME-sylv01d-0d1117?style=flat-square&logo=tryhackme&logoColor=white&labelColor=1f2937" /></a>
+  <a href="https://hackerone.com/sylv01d"><img src="https://img.shields.io/badge/HACKERONE-sylv01d-0d1117?style=flat-square&logo=hackerone&logoColor=white&labelColor=1f2937" /></a>
+  <a href="https://learn.cylabacademy.org/users/sylv01d"><img src="https://img.shields.io/badge/CYLAB%20%2F%20PICOCTF-sylv01d-0d1117?style=flat-square&logo=picoctf&logoColor=white&labelColor=1f2937" /></a>
+  <a href="https://linkedin.com/in/misbahulsaad"><img src="https://img.shields.io/badge/LINKEDIN-misbahulsaad-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f2937" /></a>
+</p>
 
-## 🎯 Goals
+<br>
 
-```text
-Linux → Networking → Web Security
-                    ↓
-               CTFs / Pentesting
-                    ↓
-              Bug Bounty
-                    ↓
-            Security Research
+> **Understand the system. Break the system. Secure the system.**
+
+I'm a computer science student who learns security by doing it: CTFs, hands-on labs, and taking things apart until I know why they work. This profile is a running log of where I am and where I'm headed.
+
+<br>
+
+## `01` &nbsp; Focus
+
+| | |
+|---|---|
+| **Offensive** | Web application security, enumeration, privilege escalation |
+| **Foundations** | Linux internals, networking, scripting |
+| **Practice** | TryHackMe paths, picoCTF, bug bounty on HackerOne |
+| **Coursework** | Databases, automata & computability, Java, digital logic |
+
+<br>
+
+## `02` &nbsp; Method
+
+```mermaid
+flowchart LR
+    A[Recon] --> B[Enumerate]
+    B --> C[Exploit]
+    C --> D[Escalate]
+    D --> E[Document]
+    E --> A
 ```
 
-* [ ] Improve CTF skills
-* [ ] Complete TryHackMe paths
-* [ ] Learn Web Pentesting
-* [ ] Learn Privilege Escalation
-* [ ] Learn Python
-* [ ] Explore AI Security
-* [ ] Build security tools
-* [ ] Become a penetration tester
+Every box I break gets a write-up. If I can't explain it, I haven't understood it.
 
----
+<br>
 
+## `03` &nbsp; Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,java,mysql,git,github&theme=dark" />
+</p>
 
----
+**Next up:** Python, security automation, AI / ML and what it means for security.
 
-<div align="center">
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=100&section=footer"/>
+## `04` &nbsp; Roadmap
 
-**Understand the system. Break the system. Secure the system.**
+- [ ] Finish the TryHackMe offensive paths
+- [ ] Web pentesting and privilege escalation, end to end
+- [ ] Learn Python and build my own security tooling
+- [ ] First valid bug bounty report
+- [ ] Explore AI security
+- [ ] Become a professional penetration tester
 
-</div>
+<br>
+
+## `05` &nbsp; Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=misbahulsaad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=e5e7eb&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahulsaad&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af" />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Open to CTF teams, security study groups, and collaboration.</sub>
+</p>
